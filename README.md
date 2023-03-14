@@ -1,5 +1,5 @@
 <h1 align="center"> Testes de software </h1>
-<h3 align="center"> Laboratórios da disciplina de Metodos avançados em programação da turma 2023.1 </h3>
+<p align="center"> Laboratórios da disciplina de Metodos avançados em programação da turma 2023.1 </p>
 
 > - **Laboratório 1 -**  [Triangulo.](https://github.com/Mikaelle-S/MAP/tree/main/Triangle)
 
